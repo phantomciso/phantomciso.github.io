@@ -1,8 +1,8 @@
-/* 
-Template Name: Mediumish 
-Copyright: Sal, WowThemes.net, https://www.wowthemes.net 
-License: https://www.wowthemes.net/freebies-license/ 
-*/
+@font-face {
+    font-family: "EB Garamond";
+    src: url("../fonts/EBGaramond-VariableFont_wght.ttf");
+  }
+
 @media screen and (min-width:1500px) {
     html { font-size:18px; } /* Increase the font size on higher resolutions */
     .container {max-width:80%;}
@@ -305,7 +305,8 @@ span.post-read-more a:hover {
 }
 
 .mainheading h1.sitetitle {
-    font-family: Righteous;
+    font-family: EB Garamond;
+    font-variant: normal;
 }
 
 .mainheading h1.posttitle {
