@@ -5,7 +5,7 @@ description: "Time to step out of the shadow"
 logo: 'assets/icons/logo.png'
 favicon: 'assets/icons/favicon.ico'
 url: https://phantomciso.github.io
-baseurl: /
+baseurl: 
 disqus: 'demowebsite'
 include: ["_pages"]
 permalink: /:title/
