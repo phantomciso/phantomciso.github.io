@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: The Phantom CISO
 permalink: /about
-comments: true
+comments: false
 ---
 
 <div class="row justify-content-between">

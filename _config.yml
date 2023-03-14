@@ -2,8 +2,8 @@
 name: "The Phantom CISO"
 title: "The Phantom CISO"
 description: "Time to step out of the shadow"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/icons/logo.png'
+favicon: 'assets/icons/favicon.ico'
 url: https://phantomciso.github.io
 baseurl: /
 disqus: 'demowebsite'
@@ -60,12 +60,8 @@ kramdown:
     block:
       line_numbers: true
 
-# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
-adsense: "disabled"
-adsense-data-ad-client: "ca-pub"
-adsense-data-ad-slot: "136"
 
 # Lazy Images ("enabled" or "disabled")
-lazyimages: "disabled"
+lazyimages: "ensabled"
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
