@@ -8,16 +8,25 @@ featured: true
 hidden: true
 ---
 
-Director Roland Suso Richter's enigmatic psychological thriller (direct to video/DVD) was based upon screenwriter Michael Cooney's own play "Point of Death" - a title that gave away the film's entire plot twist premise.
+The long-awaited arrival of The Phantom CISO has come after 2+ years of unwavering commitment and hard work. This book is an amalgamation of two decades of cybersecurity know-how, serving as a practical guide on how to achieve the position of a cybersecurity leader; A CISO. It offers real-life examples, actionable steps, and practical advice that are relevant to all current and aspiring CISOs, as well as insights into the authors' accomplishments and setbacks, demonstrating how readers can apply their own experiences to their careers.
 
-As in many similar films, such as Jacob's Ladder (1990), Soul Survivors (2001), and The Butterfly Effect (2004), events and people were thoroughly distorted and confused because the protagonist was at the point of death. The tagline was misleading:
+This book is a priceless asset to anyone seeking to make their career aspirations a reality.
 
-"When You Don't Have a Memory, How Can You Remember Who to Trust?"
+### What is a Phantom CISO?
+>
+The Phantom CISO is a <span class="spoiler"> security professional responsible for evaluating cybersecurity risk and managing and maintaining a security program within an organization without the official</span> title of a CISO.
 
-The mind-warping film opened with a hospital patient Simon Cable (Ryan Phillippe) awakening in a <span class="spoiler"> hospital with little knowledge (amnesia perhaps?) of what had happened, and why he was there, etc. He was told by attending Dr. Jeremy Newman (Stephen Rea) that it was July 29, 2002 (Simon thought it was the year 2000 - he was confused - he heard a doctor say 20:00 hours!) and that he had died for two minutes from cardiac arrest following the near-fatal accident -- but he had been revived ("You're as good as new").</span> Dr. Newman: "Simon, this is the 29th of July. The year is 2002. And your wife, whose name is Anna, is waiting outside." 
 
-(The doctor left off four crucial additional words, revealed in the film's ending.) (Spoiler: Simon had died and was not resuscitated!).
+### Chapters
 
-A major clue to everything that truly happened was the scene that played next under the credits - hospital staff failed to bring a patient back to life with a defibrillator after a car accident. Chest compressions failed and there was no pulse. A second major clue was provided by hospital orderly Travis (Stephen Graham): <span class="spoiler">Everybody dies. No mystery there. But why and how everyone dies. Now, there's a mystery worth solving. Probably the biggest mystery there is.</span>
+This book includes chapters that discuss: roles, responsibilities, various paths, what a CISO is and is not, power, influence, types, technical skilss, business skills, the human network, imposter syndrome, compensation, insecurities, supply/demand, mentorship, self-promotion, career planning, and predictions to name a few.
 
-#### So how do we do spoilers?
+We hope you will benefit from this great source of knowledge and share it with others to benefit the broader cybersecurity community.
+
+<div class="text-center">
+<a target="_blank" href="https://amzn.to/3JFWhF5">
+<button type="button" class="btn btn-outline-primary" data-mdb-ripple-color="dark">
+    Buy it on Amazon
+</button>
+</a>
+</div>
