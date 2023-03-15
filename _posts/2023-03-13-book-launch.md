@@ -19,7 +19,7 @@ The Phantom CISO is a <span class="spoiler"> security professional responsible f
 
 ### Chapters
 
-This book includes chapters that discuss: roles, responsibilities, various paths, what a CISO is and is not, power, influence, types, technical skilss, business skills, the human network, imposter syndrome, compensation, insecurities, supply/demand, mentorship, self-promotion, career planning, and predictions to name a few.
+This book includes chapters that discuss: roles, responsibilities, various paths, what a CISO is and is not, power, influence, types, technical skills, business skills, the human network, imposter syndrome, compensation, insecurities, supply/demand, mentorship, self-promotion, career planning, and predictions to name a few.
 
 We hope you will benefit from this great source of knowledge and share it with others to benefit the broader cybersecurity community.
 
