@@ -316,14 +316,14 @@ span.post-read-more a:hover {
 
 .footer {
     border-top: 1px solid rgba(0, 0, 0, .05) !important;
-    padding-top: 15px;
-    padding-bottom: 12px;
-    font-size: 0.8rem;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-size: 1rem;
     color: rgba(0, 0, 0, .44);
     margin-top: 50px;
-    margin-bottom: 62px;
+    margin-bottom: 0px;
     position: relative;
-    background: #fff;
+    background: #ebebeb;
 }
 
 .link-dark {
@@ -352,6 +352,7 @@ blockquote {
 .featured-image {
     display: block;
     margin-bottom: 1.5rem;
+    border-radius: 10px;
 }
 
 .share {
@@ -899,4 +900,7 @@ iframe {
 .lazyimg[data-srcset] {
     opacity: 0;
     transition: opacity .25s;
+}
+.text-shadow {
+    text-shadow: 9px 9px 5px #d1cece;
 }
