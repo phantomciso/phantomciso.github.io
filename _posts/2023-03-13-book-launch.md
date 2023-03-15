@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Let's test spoilers"
-author: sal
-categories: [ Jekyll, tutorial ]
-image: assets/images/12.jpg
+title:  "Book Launch"
+author: mishaal
+categories: [ leadership, cybersecurity ]
+image: assets/post-images/tilted-transparent.png
 featured: true
 hidden: true
 ---
@@ -21,7 +21,3 @@ The mind-warping film opened with a hospital patient Simon Cable (Ryan Phillippe
 A major clue to everything that truly happened was the scene that played next under the credits - hospital staff failed to bring a patient back to life with a defibrillator after a car accident. Chest compressions failed and there was no pulse. A second major clue was provided by hospital orderly Travis (Stephen Graham): <span class="spoiler">Everybody dies. No mystery there. But why and how everyone dies. Now, there's a mystery worth solving. Probably the biggest mystery there is.</span>
 
 #### So how do we do spoilers?
-
-```html
-<span class="spoiler">My hidden paragraph here.</span>
-```

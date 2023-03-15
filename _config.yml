@@ -33,11 +33,18 @@ authors:
     name: Hisham Zahid
     display_name: Hisham Zahid    
     avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: hisham@phantomciso.com
     web: 
     linkedin: https://www.linkedin.com/in/hishamcissp/
     description: "Hisham's bio"
+  mishaal:
+    name: Mishaal Khan
+    display_name: Mishaal Khan    
+    avatar: 'assets/images/avatar-hoodie.png'
+    email: mishaal@phantomciso.com
+    web: 
+    linkedin: https://www.linkedin.com/in/mish-aal/
+    description: "Mishaal's bio"
 
 # Plugins
 plugins:
