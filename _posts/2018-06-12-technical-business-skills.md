@@ -27,3 +27,12 @@ To leverage their technical and business skills, CISOs should:
 - Foster a security culture: CISOs should work to foster a security culture within their organization by engaging employees, promoting security awareness, and providing training and resources.
 
 A successful CISO is a strategic thinker with deep technical expertise and strong operational skills. They can balance the big picture with the details and manage security risks while aligning security measures with business goals and objectives.
+
+> To find out more, reach Chapter 10 and 11 of the book which talks about Soft Skills and Technical Skills in details.
+<div class="text-center">
+<a target="_blank" href="https://amzn.to/3JFWhF5">
+<button type="button" class="btn btn-outline-primary" data-mdb-ripple-color="dark">
+    Buy it on Amazon
+</button>
+</a>
+</div>
