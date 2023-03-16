@@ -24,9 +24,7 @@ This book includes chapters that discuss: roles, responsibilities, various paths
 We hope you will benefit from this great source of knowledge and share it with others to benefit the broader cybersecurity community.
 
 <div class="text-center">
-<a target="_blank" href="https://amzn.to/3JFWhF5">
-<button type="button" class="btn btn-outline-primary" data-mdb-ripple-color="dark">
+<a target="_blank" href="https://amzn.to/3JFWhF5" class="btn btn-outline-primary">
     Buy it on Amazon
-</button>
 </a>
 </div>

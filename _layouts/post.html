@@ -10,15 +10,15 @@ post_class: post-template
 <div class="container">
     <div class="row">
 
-        <!-- Post Share -->
+        <!-- Post Share
         <div class="col-md-2 pl-0">
             {% include share.html %}
-        </div>
+        </div> -->
 
         <!-- Post -->
         {% assign author = site.authors[page.author] %}
 
-        <div class="col-md-9 flex-first flex-md-unordered">
+        <div class="col-md-10 flex-first flex-md-unordered">
             <div class="mainheading">
 
                 <!-- Author Box -->
@@ -28,7 +28,7 @@ post_class: post-template
                         {% if author.avatar %}
                         <img class="author-thumb" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.display_name }}">
                         {% else %}
-                        <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
+                        <img class="author-thumb" src="{{site.baseurl}}/assets/images/default-avatar.jpg" alt="{{ author.display_name }}">
                         {% endif %}
                     </div>
                     <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
@@ -40,7 +40,14 @@ post_class: post-template
 
                 <!-- Post Title -->
                 <h1 class="posttitle">{{ page.title }}</h1>
-
+                <p>
+                    <small>
+                        <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
+                        {% if page.last_modified_at %}
+                        (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
+                        {% endif %}
+                        </small>
+                    </p>
             </div>
 
 
@@ -79,17 +86,21 @@ post_class: post-template
             </div>
             {% endif %}
 
-            <!-- Post Date -->
-            <p>
-            <small>
-                <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
-                {% if page.last_modified_at %}
-                (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
-                {% endif %}
-                </small>
-            </p>
-
-            <!-- Post Categories -->
+            
+            <div class="row">
+                <div class="col-auto">
+                    <!-- Post Date -->
+                    <p>
+                        <small>
+                            <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
+                            {% if page.last_modified_at %}
+                            (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
+                            {% endif %}
+                            </small>
+                        </p>
+                </div>
+                <div class="col-auto">
+                    <!-- Post Categories -->
             <div class="after-post-cats">
                 <ul class="tags mb-4">
                     {% assign sortedCategories = page.categories | sort %}
@@ -114,6 +125,12 @@ post_class: post-template
                 </ul>
             </div>
             <!-- End Tags -->
+
+                </div>
+            </div>
+            
+
+            
 
             <!-- Prev/Next -->
             <div class="row PageNavigation d-flex justify-content-between font-weight-bold">

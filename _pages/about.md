@@ -8,27 +8,41 @@ comments: false
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<h4>The Book</h4>
 
+<p class="card p-4">
+The Phantom CISO is a security professional responsible for evaluating cybersecurity risk and managing and maintaining a security program within an organization without the official title of a CISO.</p>
+<p>
+This book provides a practical and comprehensive approach to help individuals become successful cybersecurity leaders. Whether you are just starting out in the industry or aspiring to become a great Chief Information Security Officer (CISO), this guide offers valuable insights and skills to enhance your journey.
+</p>
 
-<h4>Documentation</h4>
+<h4>The Blog</h4>
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+<p>
+This blog aims to serve as a valuable resource for cybersecurity professionals by complementing the ideas presented in the book. In addition, it provides a platform for us to share valuable tips, insights, and perspectives that can help readers enhance their knowledge and skills in cybersecurity.
+</p>
+<p>
+The blog is designed to offer quick references and practical guidance that can be applied in real-world situations. Whether discussing technical issues or business-related concerns, the blog's articles provide actionable advice to help readers improve their security posture and protect their organizations from cyber threats. Moreover, the blog is specifically tailored to be helpful for the Phantom CISO. 
+</p>
 
-<h4>Questions or bug reports?</h4>
-
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
-
+<h4>Questions or Comments</h4>
+    <p>Reach out to us at:
+<a href="&#x6d;&#x61;&#x69;&#x6c;&#x74;&#x6f;&#x3a;&#x69;&#x6e;&#x66;&#x6f;&#x40;&#x50;&#x68;&#x61;&#x6e;&#x74;&#x6f;&#x6d;&#x43;&#x49;&#x53;&#x4f;&#x2e;&#x63;&#x6f;&#x6d;" class="bidi">
+&#x6d;&#x6f;&#x63;&#x2e;&#x4f;&#x53;&#x49;&#x43;<!-- spam@gmail.com -->&#x6d;&#x6f;&#x74;&#x6e;&#x61;&#x68;&#x50;&#x40;&#x6f;&#x66;&#x6e;&#x69;
+</a>
+</p>
 </div>
 
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
-
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
-
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+<h5>Buy the book</h5>
+    <p>Thank you for your support!</p>
+    <div class="text-center">
+        <a target="_blank" href="https://amzn.to/3JFWhF5" class="btn btn-outline-primary">
+        Buy on Amazon
+        </a>
+    </div>
 
 </div>
 </div>

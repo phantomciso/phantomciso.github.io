@@ -58,25 +58,26 @@
             <ul class="navbar-nav ml-auto">
                 
                 <li class="nav-item">
-                <a class="nav-link" href="{{ site.baseurl }}/about"><i class="fas fa-theater-masks"></i> About</a>
+                <a class="nav-link" href="{{ site.baseurl }}/about"><i class="fas fa-theater-masks" title="About"></i> About</a>
                 </li>
 
                 <li class="nav-item">
-                <a class="nav-link" href="/categories"><i class="fas fa-feather-alt"></i> Blog</a>
-                </li>
-
-                <li class="nav-item">
-                <a target="_blank" class="nav-link" href="https://amzn.to/3JFWhF5"><i class="fas fa-book"></i> Book</a>
-                </li>
-
-                <li class="nav-item">
-                <a target="_blank" class="nav-link" href="https://www.linkedin.com/company/phantomciso"><i class="fab fa-linkedin"></i> LinkedIn</a>
-                </li>
-
-                <li class="nav-item">
-                <a target="_blank" class="nav-link" href="https://github.com/phantomciso"><i class="fab fa-github"></i> Github</a>
+                <a class="nav-link" href="/categories"><i class="fas fa-feather-alt" title="Blog"></i> Blog</a>
                 </li>
                 
+                <li class="nav-item">
+                <a target="_blank" class="nav-link" href="https://amzn.to/3JFWhF5"><i class="fab fa-amazon" title="Book"></i></a>
+                </li>
+
+                <li class="nav-item">
+                <a target="_blank" class="nav-link" href="https://www.linkedin.com/company/phantomciso" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+                </li>
+
+                <li class="nav-item">
+                <a target="_blank" class="nav-link" href="https://github.com/phantomciso" title="Github"><i class="fab fa-github"></i></a>
+                </li> 
+
+
 
                 {% include search-lunr.html %}
 
@@ -143,22 +144,24 @@
 	<div class="d-md-flex h-100">
 		<div class="col-md-4 transpdark align-self-center text-center h-100">
             <div class="d-md-flex align-items-center justify-content-center h-100">
-                <h2 class="d-md-block align-self-center py-1 font-weight-light">Explore Topics <span class="d-none d-md-inline">→</span></h2>
+                <h2 class="d-md-block align-self-center py-2 mb-0 font-weight-light">Explore Topics <span class="d-none d-md-inline">→</span></h2>
             </div>
 		</div>
-		<div class="col-md-8 p-5 align-self-center text-center">
+		<div class="col-md-8 transplight p-5 align-self-center text-center h-100">
+            <div class="d-md-flex flex-wrap align-items-center justify-content-center h-100">
             {% assign categories_list = site.categories %}
             {% if categories_list.first[0] == null %}
                 {% for category in categories_list %}
-                    <a class="mt-1 mb-1" href="{{site.baseurl}}/categories#{{ category | url_escape | strip | replace: ' ', '-' }}">{{ category | camelcase }} ({{ site.tags[category].size }})</a>
+                    <a class="m-2" href="{{site.baseurl}}/categories#{{ category | url_escape | strip | replace: ' ', '-' }}">{{ category | camelcase }} ({{ site.tags[category].size }})</a>
                 {% endfor %}
             {% else %}
                 {% for category in categories_list %}
-                    <a class="mt-1 mb-1" href="{{site.baseurl}}/categories#{{ category[0] | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }} ({{ category[1].size }})</a>
+                    <a class="m-2" href="{{site.baseurl}}/categories#{{ category[0] | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }} ({{ category[1].size }})</a>
                 {% endfor %}
             {% endif %}
             {% assign categories_list = nil %}
-		</div>
+		    </div>
+      </div>
 	</div>
 </div>
 
@@ -167,20 +170,19 @@
 <footer class="footer">
     <div class="container">
         <div class="row">
-            <div class="col-md-6 col-sm-6 text-center text-lg-left">
-                Copyright © {{ site.time | date: "%Y" }} {{ site.name }} 
-            </div>
-            <div class="col-md-6 col-sm-6 text-center text-lg-right share">    
-                Visit us on: 
-                    <a target="_blank" href="https://www.linkedin.com/company/phantomciso">
+            <div class="col-md-4 col-sm-4 text-center text-lg-right share order-sm-last">    
+                    <a target="_blank" href="https://www.linkedin.com/company/phantomciso" title="LinkedIn">
                         <i class="fab fa-linkedin"></i>
                     </a>
-                    <a target="_blank" href="https://www.github.com/phantomciso">
+                    <a target="_blank" href="https://www.github.com/phantomciso" title="Github">
                         <i class="fab fa-github"></i>
                     </a>
-                    <a target="_blank" href="https://amzn.to/3JFWhF5">
+                    <a target="_blank" href="https://amzn.to/3JFWhF5" title="Book">
                         <i class="fab fa-amazon"></i>
                     </a>
+            </div>
+            <div class="col-md-8 col-sm-8 text-center text-lg-left order-sm-first my-4 my-sm-0">
+                Copyright © {{ site.time | date: "%Y" }} {{ site.name }} 
             </div>
         </div>
     </div>
