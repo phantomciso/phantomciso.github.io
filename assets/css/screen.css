@@ -307,6 +307,12 @@ span.post-read-more a:hover {
 .mainheading h1.sitetitle {
     font-family: EB Garamond;
     font-variant: normal;
+    font-size: 3.5rem;
+}
+
+.mainheading p
+{
+    font-size: 1.5rem;
 }
 
 .mainheading h1.posttitle {
