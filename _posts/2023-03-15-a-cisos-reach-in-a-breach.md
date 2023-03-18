@@ -2,7 +2,7 @@
 layout: post
 title:  "A CISO's Reach in a Breach"
 author: hisham
-categories: [ leadership ] [ ciso ] [ breach ]
+categories: [ leadership, ciso, breach ]
 image: assets/post-images/cisocio.jpg
 ---
 
