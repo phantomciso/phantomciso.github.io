@@ -12,12 +12,12 @@
 }
 
 a {
-    color: #00ab6b;
+    color: #697ece;
     transition: all 0.2s;
 }
 
 a:hover {
-    color: #038252;
+    color: #9b7f1b;
     text-decoration: none;
 }
 
@@ -206,6 +206,12 @@ section.recent-posts {
     margin-bottom: 5px;
     margin-top: 5px;
     font-size: 0.95rem;
+}
+.toc {
+    background-color: #fff6eb;
+    padding: 25px;
+    display: inline-block;
+    border-radius: 15px;
 }
 
 .toc ul {
