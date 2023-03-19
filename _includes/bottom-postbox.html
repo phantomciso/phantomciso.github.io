@@ -1,0 +1,49 @@
+<!-- start prev/next post -->
+<div class="col-md-6 mb-30px">
+    <a class="prev d-block text-center my-4" href="{{site.baseurl}}{{page.[include.position].url}}" title="{{page.[include.position].title}}" alt="{{page.[include.position].title}}">
+        {% if include.position == "previous" %}
+        &laquo; Previous
+        {% endif %}
+        
+        {% if include.position == "next" %}
+        Next &raquo;
+         {% endif %}
+        </a>
+    <div class="listfeaturedtag h-80">
+        <div class="row h-100">
+            <div class="col-12 col-md-12 col-lg-5 pr-lg-0">
+                <div class="h-100">
+                    <div class="wrapthumbnail">
+                        <a href="{{ site.baseurl }}{{ page.[include.position].url }}">
+                            {% if site.lazyimages == "enabled" %}
+                            <img class="featured-box-img-cover lazyimg"  src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if page.[include.position].image contains "://" %}{{ page.[include.position].image }}{% else %}{{ site.baseurl }}/{{ page.[include.position].image }}{% endif %}">
+                            {% else %}
+                            <img class="featured-box-img-cover" src="{% if page.[include.position].image contains "://" %}{{ page.[include.position].image }}{% else %}{{ site.baseurl }}/{{ page.[include.position].image }}{% endif %}">
+                            {% endif %}
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-md-12 col-lg-7">
+                <div class="h-100 card-group">
+                    <div class="card">
+                        <div class="card-body">
+                            <h2 class="card-title">
+                                <a class="text-dark" href="{{ site.baseurl }}{{ page.[include.position].url }}">{{ page.[include.position].title }}</a>
+                            </h2>
+                            <h4 class="card-text">{{ page.[include.position].excerpt | strip_html | truncatewords:20 }}</h4>
+                        </div>
+                        <div class="card-footer b-0 bg-white mt-auto">
+                            <div class="wrapfooter">
+                                <span class="post-date">{{ page.[include.position].date | date_to_string }}</span>
+                                </span>
+                                <div class="clearfix"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end prev/next post -->
