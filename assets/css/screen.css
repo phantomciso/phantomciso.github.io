@@ -14,11 +14,17 @@
 a {
     color: #697ece;
     transition: all 0.2s;
+    text-decoration: none;
 }
 
 a:hover {
-    color: #9b7f1b;
+    text-decoration: underline;
+}
+.nav-link:focus, .nav-link:hover {
     text-decoration: none;
+}
+a:hover, .nav-link:focus, .nav-link:hover, .footer a:hover {
+    color: #9b7f1b;
 }
 
 pre {
@@ -306,7 +312,7 @@ span.post-read-more a:hover {
 }
 
 .mediumnavigation .navbar-brand img {
-    max-height: 45px;
+    max-height: 50px;
     margin-right: 5px;
 }
 
@@ -925,7 +931,7 @@ iframe {
     direction: rtl;
     text-align: left;
 }
-.footer .share .fab, .navbar .share .fab {
+.footer .share .fab, .navbar .fab, .navbar .fas {
     margin-left: 10px;
     margin-right: 10px;
     font-size: 22px;
