@@ -4,6 +4,7 @@ title:  "CISO and CIO: Critical Roles in Effective Cybersecurity Measures"
 author: hisham
 categories: [ leadership, ciso, cio ]
 image: assets/post-images/cisocio.jpg
+toc: true
 ---
 
 
