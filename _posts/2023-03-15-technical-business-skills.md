@@ -3,7 +3,7 @@ layout: post
 title:  "Technical vs Business Skills"
 author: mishaal
 categories: [ technical, business ]
-image: assets/post-images/whiteboard.jpg
+image: assets/post-images/techbus.png
 toc: true
 ---
 
