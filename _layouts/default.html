@@ -41,9 +41,11 @@
     <div class="container pr-0">
 
     <!-- Begin Logo -->
-    <a class="navbar-brand" href="{{ site.baseurl }}/">
+    <a class="navbar-brand d-lg-none" href="{{ site.baseurl }}/">
     <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}" alt="Home" title="Home">
     </a>
+    <a class="nav-link d-none d-lg-block" href="{{ site.baseurl }}/"><i class="fas fa-home" title="Home"></i> Home</a>
+      
     <!-- End Logo -->
 
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -76,8 +78,6 @@
                 <a target="_blank" class="nav-link" href="https://github.com/phantomciso" title="Github"><i class="fab fa-github"></i></a>
                 </li> 
 
-
-
                 {% include search-lunr.html %}
 
             </ul>
@@ -99,13 +99,16 @@
 ================================================== -->
 <div class="mainheading">
     <div class="row">
-        <div class="col-md-8 text-md-left text-center">
+        <div class="col-md-2 d-flex justify-content-md-middle justify-content-center d-none d-lg-block">
+                <img src="/assets/images/logo.png" height="150" title="The Phantom CISO Mask" alt="The Phantom CISO Masks">
+        </div>
+        <div class="col text-md-left text-center align-self-center">
             <h1 class="sitetitle">{{ site.name }}</h1>
             <p class="lead text-shadow">
                 {{ site.description }}
             </p>
         </div>
-        <div class="col-md-4 d-flex justify-content-md-middle justify-content-center grow">
+        <div class="col-md-3 d-flex justify-content-md-middle justify-content-center grow">
             <a target="_blank" href="https://amzn.to/3JFWhF5">
                 <img src="/assets/images/book-single.png" height="150" title="The Phantom CISO Book" alt="The Phantom CISO Book">
             </a>
