@@ -15,9 +15,9 @@ authors:
   hisham:
     name: Hisham Zahid
     display_name: Hisham Zahid    
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/havatar.png'
     email: hisham@phantomciso.com
-    web: 
+    web: https://www.linkedin.com/in/hishamcissp/
     linkedin: https://www.linkedin.com/in/hishamcissp/
     description: "Cybersecurity Auditor, GRC, CISSP, CCSP"
   mishaal:
