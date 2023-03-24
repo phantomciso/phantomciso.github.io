@@ -10,7 +10,7 @@ comments: false
 
 <h4>The Book</h4>
 
-<p class="card p-4">
+<p class="card p-4 text-center">
 The Phantom CISO manages cybersecurity risk and programs without the official title of a CISO.</p>
 <p>
 This book offers a practical and comprehensive approach to becoming successful cybersecurity leaders, whether starting in the industry or aspiring to become a great Chief Information Security Officer (CISO). This guide provides valuable insights to enhance your journey.
