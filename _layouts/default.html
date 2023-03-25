@@ -3,16 +3,16 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
 <link rel="icon" href="{{ site.baseurl }}/assets/icons/favicon.ico">
 
 <title>{{ page.title }}</title>
 
 {% seo %}
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+
 <link href="{{ site.baseurl }}/assets/css/bootstrap.min.css" rel="stylesheet">
 <link href="{{ site.baseurl }}/assets/css/screen.css" rel="stylesheet">
 <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
-<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
 
 <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/assets/icons/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/assets/icons/favicon-32x32.png">
@@ -37,7 +37,7 @@
 ================================================== -->
 <nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
 
-    <div class="container pr-0">
+    <div class="container-fluid pr-0">
 
     <!-- Begin Logo -->
     <a class="navbar-brand d-lg-none" href="{{ site.baseurl }}/">
@@ -47,14 +47,12 @@
       
     <!-- End Logo -->
 
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMediumish" aria-controls="navbarMediumish" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
     </button>
 
     <div class="collapse navbar-collapse justify-content-end" id="navbarMediumish">
-
         <!-- Begin Menu -->
-
             <ul class="navbar-nav ml-auto">
                 
                 <li class="nav-item">
@@ -190,10 +188,9 @@
 <!-- Scripts
 ================================================== -->
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
-
-<script src="{{ site.baseurl }}/assets/js/bootstrap.bundle.min.js"></script>
-<script src="{{ site.baseurl }}/assets/js/mediumish.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/popper.min.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/bootstrap.bundle.min.js"></script>
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/mediumish.js"></script>
 
 {% if site.lazyimages == "enabled" %}
 <script src="{{ site.baseurl }}/assets/js/lazyload.js"></script>
