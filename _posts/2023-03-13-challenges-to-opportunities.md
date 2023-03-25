@@ -3,7 +3,7 @@ layout: post
 title:  "A CISO Perspective"
 author: hisham
 categories: [ security, leadership ]
-image: assets/post-images/stairs.jpg
+image: assets/post-images/perspective.jpg
 description: "Turning cybersecurity challenges into opportunities to secure an organization."
 featured: true
 hidden: true
