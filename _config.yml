@@ -28,6 +28,14 @@ authors:
     web: https://www.MishaalKhan.com
     linkedin: https://www.linkedin.com/in/mish-aal/
     description: "vCISO, Ethical Hacker, Privacy Consultant, OSINT Investigator"
+  matt:
+    name: Matt Cox
+    display_name: Matt Cox    
+    avatar: 'assets/images/matt-avatar.png'
+    email: 
+    web: https://www.linkedin.com/in/matt-cox-4013731/
+    linkedin: https://www.linkedin.com/in/matt-cox-4013731/
+    description: "vCISO, Cybersecurity Consultant"
 
 # Plugins
 plugins:
