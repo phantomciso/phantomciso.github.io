@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Powershell Script: Vulnerability Scan Report — Check the KEV"
-author: Matt Cox
+author: matt
 categories: [ technical, security ]
 tag: [ Technical ]
 image: assets/post-images/address-10k-vulns.jpg
