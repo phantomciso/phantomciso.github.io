@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Powershell Script: Vulnerability Scan Report — Check the KEV"
-author: Matt
+author: Matt Cox
 categories: [ technical, security ]
 tag: [ Technical ]
 image: assets/post-images/address-10k-vulns.jpg
@@ -14,9 +14,9 @@ A common answer is to just worry about the Critical vulnerabilies. The problem w
 
 Wouldn’t it be nice if you could prioritize those vulnerabilities based on which ones are known to be actively exploited? Well, you can. There are sophisticated (and expensive) tools which will help you do this but here is a free and easy way to do it yourself.
 
-![CISA](https://www.cisa.gov "CISA"), the Cybersecurity and Infrastructure Security Agency maintains a list known exploited vulnerabilities (KEV). You can download it directly from the website ![here](https://www.cisa.gov/known-exploited-vulnerabilities-catalog "KEV") but then you have to sift through that file and compare it with your vulnerability scan. How tedious.
+[CISA](https://www.cisa.gov), the Cybersecurity and Infrastructure Security Agency maintains a list known exploited vulnerabilities (KEV). You can download it directly from the website [here](https://www.cisa.gov/known-exploited-vulnerabilities-catalog) but then you have to sift through that file and compare it with your vulnerability scan. How tedious.
 
-Here I have created a Powershell script which will download the latest version of the KEV to your computer, ask you for a CSV version of your vulnerability scan report and compare the two. Matches will be outputted to a file. You may need to customize the script depending on the column names in your CSV file. This script was written to work with ![Nessus](https://www.tenable.com/products/nessus "Nessus"), a very common vulnerability scanner maintaned by Tenable.
+Here I have created a Powershell script which will download the latest version of the KEV to your computer, ask you for a CSV version of your vulnerability scan report and compare the two. Matches will be outputted to a file. You may need to customize the script depending on the column names in your CSV file. This script was written to work with [Nessus](https://www.tenable.com/products/nessus), a very common vulnerability scanner maintaned by Tenable.
 
 ```
 #This script will take a CSV output from a vulnerability scan and compare it with the CISA Known Exploited Vulnerabilties list and output a report on any matches.
