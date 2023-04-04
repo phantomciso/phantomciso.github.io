@@ -4,7 +4,7 @@ title:  "Powershell Script: Password expiration notifications"
 author: matt
 categories: [ technical, security ]
 tag: [ Technical ]
-image: assets/post-images/password-expired.png
+image: assets/post-images/frustrated.png
 ---
 
 It’s a good idea to have a password expiration policy, but how will users know it’s time to change their password? Maybe it expires when they are on vacation or some other inconvenient time. This script will start emailing the user 14 days before their password expires to give them plenty of time to plan ahead. You can even include a link in the email to a page that reminds them of the process to reduce those pesky helpdesk calls and make it less annoying for your users. Win/Win!
