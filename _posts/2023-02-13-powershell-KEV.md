@@ -4,11 +4,13 @@ title:  "Powershell Script: Vulnerability Scan Report — Check the KEV"
 author: matt
 categories: [ technical, security ]
 tag: [ Technical ]
-image: assets/post-images/address-10k-vulns.jpg
+image: assets/post-images/vulns.png
 ---
 
 
 As part of a vulnerability management program its important to run a vulnerability scan of your systems on a regular basis. When the scan is complete there are usually thousands of vulnerabilities identified. Customers frequently ask how they should prioritize remediating those vulnerabilities since nobody has time to do them all.
+
+![Vulnerabilities meme](/assets/post-images/address-10k-vulns.jpg)
 
 A common answer is to just worry about the Critical vulnerabilies. The problem with this approach is that the vast majority of vulnerabilies that are actually exploited are not rated as Critical. Many of them are High, Medium or even Low. Only addressing the Critical vulnerabilities is going to leave you with a lot of exposure.
 
