@@ -3,7 +3,7 @@ layout: post
 title:  "CISOs and Imposter Syndrome: How to Hack Your Way to Confidence"
 author: mishaal
 categories: [ leadership ]
-image: assets/post-images/eggs.jpg
+image: assets/post-images/imposter.png
 ---
 
 
