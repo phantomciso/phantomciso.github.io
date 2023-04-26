@@ -30,7 +30,7 @@ A successful CISO is a strategic thinker with deep technical expertise and stron
 
 > To find out more, reach Chapter 10 and 11 of the book which talks about Soft Skills and Technical Skills in details.
 <div class="text-center">
-<a target="_blank" href="https://amzn.to/3JFWhF5">
+<a target="_blank" href="https://amzn.to/3ABlQkY">
 <button type="button" class="btn btn-outline-primary" data-mdb-ripple-color="dark">
     Buy it on Amazon
 </button>

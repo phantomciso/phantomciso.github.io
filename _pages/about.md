@@ -39,7 +39,7 @@ The blog is designed to offer quick references and practical guidance that can b
 <h5>Buy the book</h5>
     <p>Thank you for your support!</p>
     <div class="text-center">
-        <a target="_blank" href="https://amzn.to/3JFWhF5" class="btn btn-outline-primary">
+        <a target="_blank" href="https://amzn.to/3ABlQkY" class="btn btn-outline-primary">
         <i class="fa fa-book mr-3"></i> Buy on Amazon
         </a>
     </div>
