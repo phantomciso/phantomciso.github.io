@@ -35,4 +35,12 @@ A successful CISO is a strategic thinker with deep technical expertise and stron
     Buy it on Amazon
 </button>
 </a>
+<a target="_blank" href="https://www.barnesandnoble.com/w/the-phantom-ciso-mishaal-khan/1143401050">
+<button type="button" class="btn btn-outline-primary" data-mdb-ripple-color="dark">
+    Buy it on Barnes & Noble
+</button>
+</a>
+
+<p></p>
+
 </div>

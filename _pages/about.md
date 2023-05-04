@@ -40,9 +40,19 @@ The blog is designed to offer quick references and practical guidance that can b
     <p>Thank you for your support!</p>
     <div class="text-center">
         <a target="_blank" href="https://amzn.to/3ABlQkY" class="btn btn-outline-primary">
-        <i class="fa fa-book mr-3"></i> Buy on Amazon
+        <i class="fa fa-book mr-3"></i> Amazon
         </a>
     </div>
+    <p></p>
+        <div class="text-center">
+        <a target="_blank" href="https://www.barnesandnoble.com/w/the-phantom-ciso-mishaal-khan/1143401050" class="btn btn-outline-primary">
+        <i class="fa fa-book mr-3"></i> Barnes & Noble
+        </a>
+    </div>
+
+
+<p></p>
+
 
 </div>
 </div>

@@ -28,4 +28,8 @@ We hope you will benefit from this great source of knowledge and share it with o
 <a target="_blank" href="https://amzn.to/3ABlQkY" class="btn btn-outline-primary">
     Buy it on Amazon
 </a>
+<a target="_blank" href="https://www.barnesandnoble.com/w/the-phantom-ciso-mishaal-khan/1143401050" class="btn btn-outline-primary">
+    Buy it on Barnes & Noble
+</a>
+<p></p>
 </div>
