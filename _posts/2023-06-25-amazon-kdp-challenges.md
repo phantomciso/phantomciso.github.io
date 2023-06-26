@@ -124,7 +124,7 @@ A popular method is to file a complaint against a business on the Better Busines
 ## 8. Legal Demand Letter
 >TLDR: Legal Action.
 
-At this point, I drafted a legal demand letter using some online templates. [link a service] I kept it very simple, defining the problem and that I just wanted my accounts reinstated, otherwise I would take further legal action against Amazon Inc. At this point, we found a friend who happened to be a lawyer specializing in consumer rights cases. So we hired him to send the letter on our behalf for a better impact.
+At this point, I drafted a legal demand letter using some online templates. (You can use a service like [PeopleClerk](https://www.peopleclerk.com/) to draft a free demand letter). I kept it very simple, defining the problem and that I just wanted my accounts reinstated, otherwise I would take further legal action against Amazon Inc. At this point, we found a friend who happened to be a lawyer specializing in consumer rights cases. So we hired him to send the letter on our behalf for a better impact.
 
 You can contact him here and reference this article: [TariqLaw.com](https://www.tariqlaw.com/)
 
