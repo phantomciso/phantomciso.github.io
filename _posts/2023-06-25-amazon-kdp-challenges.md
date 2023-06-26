@@ -128,7 +128,7 @@ A popular method is to file a complaint against a business on the Better Busines
 
 At this point, I drafted a legal demand letter using some online templates. (You can use a service like [PeopleClerk](https://www.peopleclerk.com/) to draft a free demand letter). I kept it very simple, defining the problem and that I just wanted my accounts reinstated, otherwise I would take further legal action against Amazon Inc. We hired a lawyer, a friend specializing in consumer rights cases, to send the letter on our behalf for better impact.
 
-You can contact him here and reference this article: [TariqLaw.com](https://www.tariqlaw.com/)
+You can contact him here and reference this article: [TariqLaw.com](https://www.tariqlaw.com/post/case-study-navigating-amazon-kdp-challenges-with-tariq-law)
 
 Within a few days, Amazon's legal team emailed him acknowledging receipt and said they would look into it.
 
