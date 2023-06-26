@@ -12,8 +12,11 @@ There has been concern within organizations regarding the use of ChatGPT, as som
 
 ![ChatGPT](../assets/post-images/chatgpt-data.png "ChatGPT")
 
-So, according to OpenAI, ChatGPT does not store or use any information input by users beyond generating a response. As a best practice, employees should be trained not to upload or input any personal or company data to third-party cloud platforms without written consent from the employer. Instead, users can always input fictitious or dummy data to generate a response. The accuracy of input personally identifiable information (PII) does not change ChatGPT's response. 
+So, according to OpenAI, ChatGPT does not store or use any information input by users beyond generating a response. As a best practice, employees should be trained not to upload or input any personal or company data to third-party cloud platforms without written consent from the employer. Instead, users can always input fictitious or dummy data to generate a response. Inputing *personally identifiable information* (PII) or not, does not change ChatGPT's response. So why input any sensitive data and risk having it stored in cache or a screenshot.
 
 Blocking is not always the answer, as people will find ways around it. Instead, they should be educated about the potential dangers of data exfiltration and company policy violations.
 
 The safest stance is not to trust your data outside company-approved resources, even if they claim to delete the data. The user can always be socially engineered to provide data to a phishing website that looks like chatGPT's interface. Furthermore, the company can always change its privacy policy overnight and start collecting data without you realizing it.
+
+Stay safe and don't input any sensitive information on any 3rd party website.
+
