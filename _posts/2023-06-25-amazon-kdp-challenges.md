@@ -43,7 +43,9 @@ After multiple calls and submissions with the main Amazon account team and being
 
 During the time we were working with the account teams, fortunately the book remained live on the marketplace, and people were buying it, even though we couldn’t log into both accounts.
 
+<p class="card p-4 text-center">
 It's important to note that the Amazon ecosystem has multiple departments that function independently with separate support teams with their own terms and conditions. The only common element is the login procedure, a single sign-on (SSO) service to access completely different portals.
+</p>
 
 # Account Termination
 >TLDR: Having the same bank account information on two different KDP accounts
@@ -124,7 +126,7 @@ A popular method is to file a complaint against a business on the Better Busines
 ## 8. Legal Demand Letter
 >TLDR: Legal Action.
 
-At this point, I drafted a legal demand letter using some online templates. (You can use a service like [PeopleClerk](https://www.peopleclerk.com/) to draft a free demand letter). I kept it very simple, defining the problem and that I just wanted my accounts reinstated, otherwise I would take further legal action against Amazon Inc. At this point, we found a friend who happened to be a lawyer specializing in consumer rights cases. So we hired him to send the letter on our behalf for a better impact.
+At this point, I drafted a legal demand letter using some online templates. (You can use a service like [PeopleClerk](https://www.peopleclerk.com/) to draft a free demand letter). I kept it very simple, defining the problem and that I just wanted my accounts reinstated, otherwise I would take further legal action against Amazon Inc. We hired a lawyer, a friend specializing in consumer rights cases, to send the letter on our behalf for better impact.
 
 You can contact him here and reference this article: [TariqLaw.com](https://www.tariqlaw.com/)
 
