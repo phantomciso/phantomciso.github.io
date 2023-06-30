@@ -4,7 +4,7 @@ title:  "QR Code Phishing"
 author: matt
 categories: [ technical, security ]
 tag: [ Technical ]
-image: 
+image: \assets\post-images\markus-winkler-Q6uqw_Hjye8-unsplash.jpg
 ---
 
 This is the first time I've seen this phishing technique. Attackers are sending your users QR codes to scan using their mobile devices. This approach typically bypasses all of your corporate security controls unless you tightly manage all of your users personal devices.
