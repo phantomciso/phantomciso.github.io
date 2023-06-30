@@ -19,4 +19,4 @@ Third, make sure you are able to detect the use of stolen credentials, watching 
 
 As part of a vulnerability management program its important to run a vulnerability scan of your systems on a regular basis. When the scan is complete there are usually thousands of vulnerabilities identified. Customers frequently ask how they should prioritize remediating those vulnerabilities since nobody has time to do them all.
 
-![QR Code Phish](/assets/post-images/qrcodephish.jpg)
+![QR Code Phish](/assets/post-images/1687798480506.jpg)
