@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Research: What is a Field CISO"
+title:  "Research: What is a Field CISO?"
 author: hisham
-categories: [ technical, security, policy ]
+categories: [ security, leadership ]
 tag: [ email ]
-image: assets/post-images/The Field CISO.mp4
+image: assets/post-images/The-Field-CISO.mp4
 ---
 
 I came across the term “Field CISO” and wondered, what does a Field CISO do? Is it sales and account management or just consultative? Is it vendor-centric? Are the goals of a CISO different from a Field CISO?
