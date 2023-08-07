@@ -4,7 +4,7 @@ title:  "Research: What is a Field CISO?"
 author: hisham
 categories: [ security, leadership ]
 tag: [ email ]
-image: assets/post-images/The-Field-CISO.mp4
+image: assets/post-images/The-Field-CISO.mp4jpg
 ---
 
 I came across the term “Field CISO” and wondered, what does a Field CISO do? Is it sales and account management or just consultative? Is it vendor-centric? Are the goals of a CISO different from a Field CISO?
@@ -25,9 +25,9 @@ I decided to research what type of companies have a Field CISO role on LinkedIn 
 
 - a Field CISO works with our largest enterprise customers
     
-- helping customers operationalize their security programs”
+- helping customers operationalize their security programs
     
-- this role will advise customer CISOs, and other security leaders, on how to securely operationalize the use of &lt; vendor’s product&gt; and be the primary executive point of contact for named customers”
+- this role will advise customer CISOs, and other security leaders, on how to securely operationalize the use of &lt;vendor’s product&gt; and be the primary executive point of contact for named customers”
     
 - the Field CISO will bring critical voice of the customer feedback regarding both native security product strategy, operational practices, as well as key security partnerships
     
