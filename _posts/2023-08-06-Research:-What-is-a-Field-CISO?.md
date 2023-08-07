@@ -3,7 +3,7 @@ layout: post
 title:  "Research: What is a Field CISO?"
 author: hisham
 categories: [ security, leadership ]
-tag: [ email ]
+tag: [ Leadership ]
 image: assets/post-images/The-Field-CISO.jpg
 ---
 
