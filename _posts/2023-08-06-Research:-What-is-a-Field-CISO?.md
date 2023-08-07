@@ -27,7 +27,7 @@ I decided to research what type of companies have a Field CISO role on LinkedIn 
     
 - helping customers operationalize their security programs
     
-- this role will advise customer CISOs, and other security leaders, on how to securely operationalize the use of &lt;vendor’s product&gt; and be the primary executive point of contact for named customers”
+- this role will advise customer CISOs, and other security leaders, on how to securely operationalize the use of &lt;vendor’s product&gt; and be the primary executive point of contact for named customers
     
 - the Field CISO will bring critical voice of the customer feedback regarding both native security product strategy, operational practices, as well as key security partnerships
     
